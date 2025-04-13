@@ -1,0 +1,18 @@
+//declare a variable named
+'playername'
+//this will store the name of the player
+make a variable name:playername
+//initalize the 'player name'variable with a value
+set[player name v]to [alex]
+
+//declare a variable name'score'
+//this will track the player score
+make a variable: score
+//initalize the 'score'variable to 0
+set[score v]to [0]
+//increase score by 10(for exmp when the players wins the point)
+change[score v]by[10]
+//declare a variable to check if the game is over
+make a variable:gameover
+//set'gameover'to false at the start
+set[gameover v]to[false]
